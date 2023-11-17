@@ -1,0 +1,3 @@
+2023-11-17 09:54:56,455 - __main__ - INFO - User 6653223563 left the channel. Restricted from sending messages in the chat.
+2023-11-17 09:54:56,455 - __main__ - INFO - User 6653223563 joined the chat, but did not subscribe to the channel.
+2023-11-17 09:55:01,975 - __main__ - INFO - User 6653223563 subscribed to the channel and is now allowed to send messages.
