@@ -18,7 +18,7 @@ handler.setFormatter(formatter)
 logger.addHandler(handler)
 
 # Initialize bot with token
-bot = Bot(token='6589544541:AAFccU96VKGXGiBwY2ycNvDujHCcK7ohYkw')
+bot = Bot(token='token')
 # Initialize dispatcher
 dp = Dispatcher(bot)
 
